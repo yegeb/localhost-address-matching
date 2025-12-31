@@ -99,6 +99,6 @@ print(results[0]['entities_json'])
 This project was brought to you by the **localhost** team:
 
 *   **Yüksel Ege Boyacı (me)**
-*   **Barış Çakmak**
-*   **Tuğçe Yücel**
-*   **Ömer Ozan Mart**
+*   **Barış Çakmak (cakmakbaris)**
+*   **Tuğçe Yücel (yuceltugce)**
+*   **Ömer Ozan Mart (ozanmart)**
