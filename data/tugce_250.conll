@@ -1,0 +1,2345 @@
+```
+Değirmenönü mahallesi Dumlupınar cad 1706 sokak no 15 Askal sitesi b blok,734115,A
+Değirmenönü B-MAHALLE
+mahallesi I-MAHALLE
+Dumlupınar B-CADDE
+cad I-CADDE
+1706 B-SOKAK
+sokak I-SOKAK
+no B-BINA_NO
+15 I-BINA_NO
+Askal B-SITE_ADI
+sitesi I-SITE_ADI
+b B-BINA_ADI
+blok I-BINA_ADI
+
+geris mah. çoban CD. sokak:9 no:7 yalikavak (gümüskaya jandarma yan sokagi),801249,A
+geris B-MAHALLE
+mah. I-MAHALLE
+çoban B-CADDE
+CD. I-CADDE
+sokak B-SOKAK
+: I-SOKAK
+9 I-SOKAK
+no B-BINA_NO
+: I-BINA_NO
+7 I-BINA_NO
+yalikavak B-ILCE
+( B-TARIF
+gümüskaya I-TARIF
+jandarma I-TARIF
+yan I-TARIF
+sokagi I-TARIF
+) I-TARIF
+
+Ege mahallesi huzurevi caddesi huzurevi sokak no:8 huzur apartmanı kat:4 daire:16 ,10704,A
+Ege B-MAHALLE
+mahallesi I-MAHALLE
+huzurevi B-CADDE
+caddesi I-CADDE
+huzurevi B-SOKAK
+sokak I-SOKAK
+no B-BINA_NO
+: I-BINA_NO
+8 I-BINA_NO
+huzur B-BINA_ADI
+apartmanı I-BINA_ADI
+kat B-KAT
+: I-KAT
+4 I-KAT
+daire B-DAIRE_NO
+: I-DAIRE_NO
+16 I-DAIRE_NO
+
+Akkonak Mah. Akkonak mah Yeşilköy cad 1664 sokak 2/4,612597,A
+Akkonak B-MAHALLE
+Mah. I-MAHALLE
+Akkonak B-MAHALLE
+mah I-MAHALLE
+Yeşilköy B-CADDE
+cad I-CADDE
+1664 B-SOKAK
+sokak I-SOKAK
+2 B-BINA_NO
+/ B-DAIRE_NO
+4 I-DAIRE_NO
+
+TEPECİK MAHALLESİ Tepecik Mahallesi Akarca Caddesi Güneşli kent Sitesi Papatya Sokak No:68/252 Sefe rihisar/İzmir SEFERİHİSAR İZMIR Türkiye,845109,A
+TEPECİK B-MAHALLE
+MAHALLESİ I-MAHALLE
+Tepecik B-MAHALLE
+Mahallesi I-MAHALLE
+Akarca B-CADDE
+Caddesi I-CADDE
+Güneşli B-SITE_ADI
+kent I-SITE_ADI
+Sitesi I-SITE_ADI
+Papatya B-SOKAK
+Sokak I-SOKAK
+No B-BINA_NO
+: I-BINA_NO
+68 I-BINA_NO
+/ B-DAIRE_NO
+252 I-DAIRE_NO
+Sefe B-ILCE
+rihisar I-ILCE
+/ O
+İzmir B-IL
+SEFERİHİSAR B-ILCE
+IZMIR B-IL
+Türkiye O
+
+yiğitler caddesi refet bele mah karabağlar izmir yeşil yurt kooperatif evleri 9171 sk mvee maze internet kafe   ,677357,A
+yiğitler B-CADDE
+caddesi I-CADDE
+refet B-MAHALLE
+bele I-MAHALLE
+mah I-MAHALLE
+karabağlar B-ILCE
+izmir B-IL
+yeşil B-BINA_ADI
+yurt I-BINA_ADI
+kooperatif I-BINA_ADI
+evleri I-BINA_ADI
+9171 B-SOKAK
+sk I-SOKAK
+mvee B-TARIF
+maze I-TARIF
+internet I-TARIF
+kafe I-TARIF
+
+SİTELER MAH Siteler mahallesi, emek cd, 489 sokak. SN PARK PLUS sitesi, blok:C3/42,759053,A
+SİTELER B-MAHALLE
+MAH I-MAHALLE
+Siteler B-MAHALLE
+mahallesi I-MAHALLE
+, O
+emek B-CADDE
+cd I-CADDE
+, O
+489 B-SOKAK
+sokak I-SOKAK
+. O
+SN B-SITE_ADI
+PARK I-SITE_ADI
+PLUS I-SITE_ADI
+sitesi I-SITE_ADI
+, O
+blok B-BINA_ADI
+: I-BINA_ADI
+C3 I-BINA_ADI
+/ B-DAIRE_NO
+42 I-DAIRE_NO
+
+FOÇA MAH İBRAHİM GÜL CAD 1038 SOK NO:7 FETHİYE MUĞLA(SELVİEVLER KARŞISI) FOÇA FETHİYE Muğla,71236,A
+FOÇA B-MAHALLE
+MAH I-MAHALLE
+İBRAHİM B-CADDE
+GÜL I-CADDE
+CAD I-CADDE
+1038 B-SOKAK
+SOK I-SOKAK
+NO B-BINA_NO
+: I-BINA_NO
+7 I-BINA_NO
+FETHİYE B-ILCE
+MUĞLA B-IL
+( B-TARIF
+SELVİEVLER I-TARIF
+KARŞISI I-TARIF
+) I-TARIF
+FOÇA B-MAHALLE
+FETHİYE B-ILCE
+Muğla B-IL
+
+SALİHPAŞALAR MAH.KÖYİÇİ SOK. AKSAZ CAD.NO:233/1 MENTEŞE/MUĞLA MUğLA,5092,A
+SALİHPAŞALAR B-MAHALLE
+MAH I-MAHALLE
+KÖYİÇİ B-SOKAK
+SOK I-SOKAK
+. O
+AKSAZ B-CADDE
+CAD I-CADDE
+. O
+NO B-BINA_NO
+: I-BINA_NO
+233 I-BINA_NO
+/ B-DAIRE_NO
+1 I-DAIRE_NO
+MENTEŞE B-ILCE
+/ O
+MUĞLA B-IL
+MUğLA B-IL
+
+Maltepe mahallesi hoca Ahmet Yesevi caddesi Çim Sokak no 20 (vikont cafeye bırakılacak.) cafe,399851,A
+Maltepe B-MAHALLE
+mahallesi I-MAHALLE
+hoca B-CADDE
+Ahmet I-CADDE
+Yesevi I-CADDE
+caddesi I-CADDE
+Çim B-SOKAK
+Sokak I-SOKAK
+no B-BINA_NO
+20 I-BINA_NO
+( B-TARIF
+vikont I-TARIF
+cafeye I-TARIF
+bırakılacak I-TARIF
+. I-TARIF
+) I-TARIF
+cafe B-TARIF
+
+celal bayar mahallesi şifne caddesi 5152 sokak no 7no lu daire swissotel resdences çeşme ılıca çeşme izmir,262314,A
+celal B-MAHALLE
+bayar I-MAHALLE
+mahallesi I-MAHALLE
+şifne B-CADDE
+caddesi I-CADDE
+5152 B-SOKAK
+sokak I-SOKAK
+no B-DAIRE_NO
+7no I-DAIRE_NO
+lu I-DAIRE_NO
+daire I-DAIRE_NO
+swissotel B-BINA_ADI
+resdences I-BINA_ADI
+çeşme B-ILCE
+ılıca I-TARIF
+çeşme B-ILCE
+izmir B-IL
+
+Yunus Nadi Caddesi, Akarca mahallesi, 843 sokak NO: 19/B POSTA KODU: 48300 Shell Petrol Arkası Beyaz Köşe Villa AKARCA FETHİYE Muğla,93625,A
+Yunus B-CADDE
+Nadi I-CADDE
+Caddesi I-CADDE
+, O
+Akarca B-MAHALLE
+mahallesi I-MAHALLE
+, O
+843 B-SOKAK
+sokak I-SOKAK
+NO B-BINA_NO
+: I-BINA_NO
+19 I-BINA_NO
+/ I-BINA_NO
+B I-BINA_NO
+POSTA B-POSTA_KODU
+KODU I-POSTA_KODU
+: I-POSTA_KODU
+48300 I-POSTA_KODU
+Shell B-TARIF
+Petrol I-TARIF
+Arkası I-TARIF
+Beyaz I-TARIF
+Köşe I-TARIF
+Villa I-TARIF
+AKARCA B-MAHALLE
+FETHİYE B-ILCE
+Muğla B-IL
+
+Cumhuriyet Mahallesi Uğur Mumcu Caddesi 478. Sokak Danışkent Sitesi 1/13 (C1),186452,A
+Cumhuriyet B-MAHALLE
+Mahallesi I-MAHALLE
+Uğur B-CADDE
+Mumcu I-CADDE
+Caddesi I-CADDE
+478. B-SOKAK
+Sokak I-SOKAK
+Danışkent B-SITE_ADI
+Sitesi I-SITE_ADI
+1 B-BINA_NO
+/ B-DAIRE_NO
+13 I-DAIRE_NO
+( B-TARIF
+C1 I-TARIF
+) I-TARIF
+
+Karaçalı mahallesi inönü cd 12 .sk no:12 daire:3,203455,A
+Karaçalı B-MAHALLE
+mahallesi I-MAHALLE
+inönü B-CADDE
+cd I-CADDE
+12 B-SOKAK
+.sk I-SOKAK
+no B-BINA_NO
+: I-BINA_NO
+12 I-BINA_NO
+daire B-DAIRE_NO
+: I-DAIRE_NO
+3 I-DAIRE_NO
+
+Bahçelievler Mah ORHAN ŞAİK GÖKYAY CADDESİ 1834 SK NO:34/  A DİAFİZ FİZİK TEDAVİ DAL MERKEZİ     K arşıyaka İzmir Bahçelievler Mah   Karşıyaka İZMIR Türkiye,32026,A
+Bahçelievler B-MAHALLE
+Mah I-MAHALLE
+ORHAN B-CADDE
+ŞAİK I-CADDE
+GÖKYAY I-CADDE
+CADDESİ I-CADDE
+1834 B-SOKAK
+SK I-SOKAK
+NO B-BINA_NO
+: I-BINA_NO
+34 I-BINA_NO
+/ I-BINA_NO
+A I-BINA_NO
+DİAFİZ B-BINA_ADI
+FİZİK I-BINA_ADI
+TEDAVİ I-BINA_ADI
+DAL I-BINA_ADI
+MERKEZİ I-BINA_ADI
+K B-ILCE
+arşıyaka I-ILCE
+İzmir B-IL
+Bahçelievler B-MAHALLE
+Mah I-MAHALLE
+Karşıyaka B-ILCE
+İZMIR B-IL
+Türkiye O
+
+SÜMBÜL SOK ŞEHIT BARIŞ AKAY CAD NO:5 48400 ÇIRKAN MAH  BODRUM MUĞLA,726736,A
+SÜMBÜL B-SOKAK
+SOK I-SOKAK
+ŞEHIT B-CADDE
+BARIŞ I-CADDE
+AKAY I-CADDE
+CAD I-CADDE
+NO B-BINA_NO
+: I-BINA_NO
+5 I-BINA_NO
+48400 B-POSTA_KODU
+ÇIRKAN B-MAHALLE
+MAH I-MAHALLE
+BODRUM B-ILCE
+MUĞLA B-IL
+
+Umurlu mahallesi istasyon caddesi 3925 sokak no 12 efeler aydın  UMURLU EFELER Aydın,406692,A
+Umurlu B-MAHALLE
+mahallesi I-MAHALLE
+istasyon B-CADDE
+caddesi I-CADDE
+3925 B-SOKAK
+sokak I-SOKAK
+no B-BINA_NO
+12 I-BINA_NO
+efeler B-ILCE
+aydın B-IL
+UMURLU B-MAHALLE
+EFELER B-ILCE
+Aydın B-IL
+
+TAŞYAKA Tasyaka Mah Baha Şıkman Cad 234 Sokak No 7/1 Mugla Fethiye  ,786627,A
+TAŞYAKA B-MAHALLE
+Tasyaka I-MAHALLE
+Mah B-MAHALLE
+Baha B-CADDE
+Şıkman I-CADDE
+Cad I-CADDE
+234 B-SOKAK
+Sokak I-SOKAK
+No B-BINA_NO
+7 I-BINA_NO
+/ B-DAIRE_NO
+1 I-DAIRE_NO
+Mugla B-IL
+Fethiye B-ILCE
+
+"Yalıkavak Mahallesi, Yale Caddesi 6056 Sokak C2  48400 Bodrum Muğla YALIKAVAK BODRUM Muğla",190018,A
+Yalıkavak B-MAHALLE
+Mahallesi I-MAHALLE
+Yale B-CADDE
+Caddesi I-CADDE
+6056 B-SOKAK
+Sokak I-SOKAK
+C2 B-BINA_NO
+48400 B-POSTA_KODU
+Bodrum B-ILCE
+Muğla B-IL
+YALIKAVAK B-MAHALLE
+BODRUM B-ILCE
+Muğla B-IL
+
+Yeni mah. Selanik cad. 842.Sok no:107 kat:2 daire:7 (türk telekom yanı saygın inşaat üstü) Didim/Aydın YENİ DİDİM Aydın,24939,A
+Yeni B-MAHALLE
+mah. I-MAHALLE
+Selanik B-CADDE
+cad. I-CADDE
+842 B-SOKAK
+.Sok I-SOKAK
+no B-BINA_NO
+: I-BINA_NO
+107 I-BINA_NO
+kat B-KAT
+: I-KAT
+2 I-KAT
+daire B-DAIRE_NO
+: I-DAIRE_NO
+7 I-DAIRE_NO
+( B-TARIF
+türk I-TARIF
+telekom I-TARIF
+yanı I-TARIF
+saygın I-TARIF
+inşaat I-TARIF
+üstü I-TARIF
+) I-TARIF
+Didim B-ILCE
+/ O
+Aydın B-IL
+YENİ B-MAHALLE
+DİDİM B-ILCE
+Aydın B-IL
+
+Mithatpaşa mahallesi Atatürk caddesi 5.sokak No:1 Daire:7 Salihli/MANİSA Kat 3 daire:7 (avukatlık ofisi),752426,A
+Mithatpaşa B-MAHALLE
+mahallesi I-MAHALLE
+Atatürk B-CADDE
+caddesi I-CADDE
+5 B-SOKAK
+.sokak I-SOKAK
+No B-BINA_NO
+: I-BINA_NO
+1 I-BINA_NO
+Daire B-DAIRE_NO
+: I-DAIRE_NO
+7 I-DAIRE_NO
+Salihli B-ILCE
+/ O
+MANİSA B-IL
+Kat B-KAT
+3 I-KAT
+daire B-DAIRE_NO
+: I-DAIRE_NO
+7 I-DAIRE_NO
+( B-TARIF
+avukatlık I-TARIF
+ofisi I-TARIF
+) I-TARIF
+
+MEHMETÇİK MAH Sağlık caddesi mehmetçik mahallesi 308 sokak no22,288785,A
+MEHMETÇİK B-MAHALLE
+MAH I-MAHALLE
+Sağlık B-CADDE
+caddesi I-CADDE
+mehmetçik B-MAHALLE
+mahallesi I-MAHALLE
+308 B-SOKAK
+sokak I-SOKAK
+no B-BINA_NO
+22 I-BINA_NO
+
+Celal bayar mahallesi şifne caddesi 5152 sokak no :43 Swiss otel haremlik mağazası,701468,A
+Celal B-MAHALLE
+bayar I-MAHALLE
+mahallesi I-MAHALLE
+şifne B-CADDE
+caddesi I-CADDE
+5152 B-SOKAK
+sokak I-SOKAK
+no B-BINA_NO
+: I-BINA_NO
+43 I-BINA_NO
+Swiss B-TARIF
+otel I-TARIF
+haremlik I-TARIF
+mağazası I-TARIF
+
+Gölköy Mah. Bülent Ecevit Cad. 330.sokak Mesa Demirbükü Sitesi Blok NO: D6 Daire NO: 3 Bodrum/Muğla GÖLKÖY BODRUM Muğla,282744,A
+Gölköy B-MAHALLE
+Mah. I-MAHALLE
+Bülent B-CADDE
+Ecevit I-CADDE
+Cad. I-CADDE
+330 B-SOKAK
+.sokak I-SOKAK
+Mesa B-SITE_ADI
+Demirbükü I-SITE_ADI
+Sitesi I-SITE_ADI
+Blok B-BINA_NO
+NO I-BINA_NO
+: I-BINA_NO
+D6 I-BINA_NO
+Daire B-DAIRE_NO
+NO I-DAIRE_NO
+: I-DAIRE_NO
+3 I-DAIRE_NO
+Bodrum B-ILCE
+/ O
+Muğla B-IL
+GÖLKÖY B-MAHALLE
+BODRUM B-ILCE
+Muğla B-IL
+
+
+Cadde/Mahalle :Kadınlar Denizi Sokak :Ali Yücel Sk. Dış Kapı No : 8B Daire No : z Adres Açıklaması : Kadınlar Denizi Ali Yücel Sk. 8B Kuşadası Aydın Trabzonspor apartmanının karşısındaki bina,771993,A
+Cadde B-CADDE
+/ O
+Mahalle B-MAHALLE
+: I-MAHALLE
+Kadınlar I-MAHALLE
+Denizi I-MAHALLE
+Sokak B-SOKAK
+: I-SOKAK
+Ali I-SOKAK
+Yücel I-SOKAK
+Sk. I-SOKAK
+Dış B-BINA_NO
+Kapı I-BINA_NO
+No I-BINA_NO
+: I-BINA_NO
+8B I-BINA_NO
+Daire B-DAIRE_NO
+No I-DAIRE_NO
+: I-DAIRE_NO
+z I-DAIRE_NO
+Adres B-TARIF
+Açıklaması I-TARIF
+: O
+Kadınlar B-MAHALLE
+Denizi I-MAHALLE
+Ali B-SOKAK
+Yücel I-SOKAK
+Sk. I-SOKAK
+8B B-BINA_NO
+Kuşadası B-ILCE
+Aydın B-IL
+Trabzonspor B-TARIF
+apartmanının I-TARIF
+karşısındaki I-TARIF
+bina I-TARIF
+
+tuzla mah sadi pekin cad 546 sok ata apa rtmanı no4 daire 1 esnaf hastanesi acil karşısı,528125,A
+tuzla B-MAHALLE
+mah I-MAHALLE
+sadi B-CADDE
+pekin I-CADDE
+cad I-CADDE
+546 B-SOKAK
+sok I-SOKAK
+ata B-BINA_ADI
+apa I-BINA_ADI
+rtmanı I-BINA_ADI
+no B-BINA_NO
+4 I-BINA_NO
+daire B-DAIRE_NO
+1 I-DAIRE_NO
+esnaf B-TARIF
+hastanesi I-TARIF
+acil I-TARIF
+karşısı I-TARIF
+
+Soğucak mah. 4886 sok. 1374 cad. Last Point City Sitesi No:11/2 Kuşadası / Aydın SOĞUCAK KUŞADASI Aydın,215562,A
+Soğucak B-MAHALLE
+mah. I-MAHALLE
+4886 B-SOKAK
+sok. I-SOKAK
+1374 B-CADDE
+cad. I-CADDE
+Last B-SITE_ADI
+Point I-SITE_ADI
+City I-SITE_ADI
+Sitesi I-SITE_ADI
+No B-BINA_NO
+: I-BINA_NO
+11 I-BINA_NO
+/ I-DAIRE_NO
+2 B-DAIRE_NO
+Kuşadası B-ILCE
+/ O
+Aydın B-IL
+SOĞUCAK B-MAHALLE
+KUŞADASI B-ILCE
+Aydın B-IL
+
+İZMİR/Menderes Görece Cumhuriyet Mahallesi Vali Kemal Hadımlı Caddesi 5051 Sokak no:28 ,468742,A
+İZMİR B-IL
+/ O
+Menderes B-ILCE
+Görece B-MAHALLE
+Cumhuriyet I-MAHALLE
+Mahallesi I-MAHALLE
+Vali B-CADDE
+Kemal I-CADDE
+Hadımlı I-CADDE
+Caddesi I-CADDE
+5051 B-SOKAK
+Sokak I-SOKAK
+no B-BINA_NO
+: I-BINA_NO
+28 I-BINA_NO
+
+Gümbet Mah. GÜMBET MAH.ADNAN MENDERES CAD.M.KASIF ERTEKIN SOK. BODRUM/ MUGLA Platin Residance Sit,34104,A
+Gümbet B-MAHALLE
+Mah. I-MAHALLE
+GÜMBET B-MAHALLE
+MAH I-MAHALLE
+ADNAN B-CADDE
+MENDERES I-CADDE
+CAD I-CADDE
+M.KASIF B-SOKAK
+ERTEKIN I-SOKAK
+SOK I-SOKAK
+BODRUM B-ILCE
+/ O
+MUGLA B-IL
+Platin B-SITE_ADI
+Residance I-SITE_ADI
+Sit I-SITE_ADI
+
+Mavisehir Mah Opera Cad 2040/5 Sk 2 Etap Filamingo 10 K 14 D 55 Evde Olmamam Durumunda Kargonun Blok Kargo Bölümüne Bırakılmasını İstiyorum,371491,A
+Mavisehir B-MAHALLE
+Mah I-MAHALLE
+Opera B-CADDE
+Cad I-CADDE
+2040 B-SOKAK
+/ I-SOKAK
+5 I-SOKAK
+Sk I-SOKAK
+2 B-BINA_ADI
+Etap I-BINA_ADI
+Filamingo I-BINA_ADI
+10 I-BINA_ADI
+K B-KAT_NO
+14 I-KAT_NO
+D B-DAIRE_NO
+55 I-DAIRE_NO
+Evde B-TARIF
+Olmamam I-TARIF
+Durumunda I-TARIF
+Kargonun I-TARIF
+Blok I-TARIF
+Kargo I-TARIF
+Bölümüne I-TARIF
+Bırakılmasını I-TARIF
+İstiyorum I-TARIF
+
+Hacıfeyzullah Mahallesi,Şehit Erkan Altınkaynak Caddesi,5.Sokak,Gerçek Sitesi,7.Blok,Daire 10 Blok 7 Daire 10,508382,A
+Hacıfeyzullah B-MAHALLE
+Mahallesi I-MAHALLE
+Şehit B-CADDE
+Erkan I-CADDE
+Altınkaynak I-CADDE
+Caddesi I-CADDE
+5 B-SOKAK
+Sokak I-SOKAK
+Gerçek B-SITE_ADI
+Sitesi I-SITE_ADI
+7 B-BINA_ADI
+Blok I-BINA_ADI
+Daire B-DAIRE_NO
+10 I-DAIRE_NO
+Blok B-BINA_ADI
+7 I-BINA_ADI
+Daire B-DAIRE_NO
+10 I-DAIRE_NO
+
+Çatalarık mahallesi halil avcı caddesi sokak 1349 no3A Daire,249878,A
+Çatalarık B-MAHALLE
+mahallesi I-MAHALLE
+halil B-CADDE
+avcı I-CADDE
+caddesi I-CADDE
+sokak B-SOKAK
+1349 B-BINA_NO
+no3A I-BINA_NO
+Daire B-DAIRE_NO
+
+Eskihisar Mah.Cumhuriyet Cad.8.Sok.No:5 D:3 Cami Karşısı ,468352,A
+Eskihisar B-MAHALLE
+Mah. I-MAHALLE
+Cumhuriyet B-CADDE
+Cad. I-CADDE
+8 B-SOKAK
+Sok I-SOKAK
+No B-BINA_NO
+: I-BINA_NO
+5 I-BINA_NO
+D B-DAIRE_NO
+: I-DAIRE_NO
+3 I-DAIRE_NO
+Cami B-TARIF
+Karşısı I-TARIF
+
+Güvendik Mah. Okul Cd 152 Sk 2/1 Çeşmealtı/urla/izmir Yazlık,171130,A
+Güvendik B-MAHALLE
+Mah. I-MAHALLE
+Okul B-CADDE
+Cd I-CADDE
+152 B-SOKAK
+Sk I-SOKAK
+2 B-BINA_NO
+/ I-DAIRE_NO
+1 B-DAIRE_NO
+Çeşmealtı B-SEMT
+/ O
+urla B-ILCE
+/ O
+izmir B-IL
+Yazlık B-TARIF
+
+ATATÜRK MAH. ATATÜRK MAH. SEVGI CADDESI 28 SOKAK NO 5 FOÇA /IZMIR FOÇA,96289,A
+ATATÜRK B-MAHALLE
+MAH. I-MAHALLE
+ATATÜRK B-MAHALLE
+MAH. I-MAHALLE
+SEVGI B-CADDE
+CADDESI I-CADDE
+28 B-SOKAK
+SOKAK I-SOKAK
+NO B-BINA_NO
+5 I-BINA_NO
+FOÇA B-ILCE
+/ O
+IZMIR B-IL
+FOÇA B-ILCE
+
+Zeytinköy mahallesi Kozlupınar caddesi sokak 7/3 Apart adı AKPOR İNŞAAT. Kat 3 daire 14 ,218705,A
+Zeytinköy B-MAHALLE
+mahallesi I-MAHALLE
+Kozlupınar B-CADDE
+caddesi I-CADDE
+sokak B-SOKAK
+7 B-BINA_NO
+/ B-DAIRE_NO
+3 I-DAIRE_NO
+Apart B-BINA_ADI
+adı I-BINA_ADI
+AKPOR I-BINA_ADI
+İNŞAAT. I-BINA_ADI
+Kat B-KAT
+3 I-KAT
+daire B-DAIRE_NO
+14 I-DAIRE_NO
+
+DİKİLİ KABAKUM MAH. SAHİLYOLU CAD. 585 SOKAK NO  1 KABAKUM CARREFOURSAİŞ ADRESİ ,358748,A
+DİKİLİ B-ILCE
+KABAKUM B-MAHALLE
+MAH. I-MAHALLE
+SAHİLYOLU B-CADDE
+CAD. I-CADDE
+585 B-SOKAK
+SOKAK I-SOKAK
+NO B-BINA_NO
+1 I-BINA_NO
+KABAKUM B-MAHALLE
+CARREFOURSAİŞ B-TARIF
+ADRESİ I-TARIF
+
+Sanayi Cd. 6. Sk. No:11 Merkez Mah,778294,A
+Sanayi B-CADDE
+Cd. I-CADDE
+6. B-SOKAK
+Sk. I-SOKAK
+No B-BINA_NO
+: I-BINA_NO
+11 I-BINA_NO
+Merkez B-MAHALLE
+Mah I-MAHALLE
+
+Sırakapılar mahallesi saltak caddesi 1532 sokak  no 4kat  3denizli merkezefendi,183281,A
+Sırakapılar B-MAHALLE
+mahallesi I-MAHALLE
+saltak B-CADDE
+caddesi I-CADDE
+1532 B-SOKAK
+sokak I-SOKAK
+no B-BINA_NO
+4 I-BINA_NO
+kat B-KAT
+3 I-KAT
+denizli B-IL
+merkezefendi B-ILCE
+
+Beçin Mah. BECIN MAHALLESI BAHAR SOKAK ÜNİVERSİTE CADDESI MULA MILAS,359886,A
+Beçin B-MAHALLE
+Mah. I-MAHALLE
+BECIN B-MAHALLE
+MAHALLESI I-MAHALLE
+BAHAR B-SOKAK
+SOKAK I-SOKAK
+ÜNİVERSİTE B-CADDE
+CADDESI I-CADDE
+MULA B-IL
+MILAS B-ILCE
+
+Didim Altınkum mahallesi inönü bulv. Yeşilkent caddesi 278.sk No:4 Aydın Türkiye,340007,A
+Didim B-ILCE
+Altınkum B-MAHALLE
+mahallesi I-MAHALLE
+inönü B-CADDE
+bulv. I-CADDE
+Yeşilkent B-CADDE
+caddesi I-CADDE
+278 B-SOKAK
+.sk I-SOKAK
+No B-BINA_NO
+: I-BINA_NO
+4 I-BINA_NO
+Aydın B-IL
+Türkiye B-ULKE
+
+Dirmil Mahallesi, İnönü Caddesi, Gürçağlar Sokak, Hilltop Park Evleri 14/2 48400 Yalıkavak/ Bodrum DİRMİL BODRUM Muğla,58902,A
+Dirmil B-MAHALLE
+Mahallesi I-MAHALLE
+İnönü B-CADDE
+Caddesi I-CADDE
+Gürçağlar B-SOKAK
+Sokak I-SOKAK
+Hilltop B-BINA_ADI
+Park I-BINA_ADI
+Evleri I-BINA_ADI
+14 B-BINA_NO
+/ B-DAIRE_NO
+2 I-DAIRE_NO
+48400 B-POSTA_KODU
+Yalıkavak B-ILCE
+/ O
+Bodrum B-ILCE
+DİRMİL B-MAHALLE
+BODRUM B-ILCE
+Muğla B-IL
+
+siteler mah istasyon cad 445 sokak no 4/2 b blok kat 3 daire 57 izpek,757830,A
+siteler B-MAHALLE
+mah I-MAHALLE
+istasyon B-CADDE
+cad I-CADDE
+445 B-SOKAK
+sokak I-SOKAK
+no B-BINA_NO
+4 I-BINA_NO
+/ B-DAIRE_NO
+2 I-DAIRE_NO
+b B-BLOK
+blok I-BLOK
+kat B-KAT
+3 I-KAT
+daire B-DAIRE_NO
+57 I-DAIRE_NO
+izpek B-BINA_ADI
+
+323/1 SOKAK NO:10 KAT:1 9 EYLÜL MAH.ULAŞTIRMA CAD.GAZİEMİR/İZMİR,721210,A
+323 B-SOKAK
+/ I-SOKAK
+1 I-SOKAK
+SOKAK I-SOKAK
+NO B-BINA_NO
+: I-BINA_NO
+10 I-BINA_NO
+KAT B-KAT
+: I-KAT
+1 I-KAT
+9 B-MAHALLE
+EYLÜL I-MAHALLE
+MAH. I-MAHALLE
+ULAŞTIRMA B-CADDE
+CAD. I-CADDE
+GAZİEMİR B-ILCE
+/ O
+İZMİR B-IL
+
+Mordoğan-Bucak Merkezi Mah. Mordoğan Mahallesi Atatürk Caddesi 127.Sokak No:5 Mordoğan/Karaburun,587288,A
+Mordoğan-Bucak B-MAHALLE
+Merkezi I-MAHALLE
+Mah. I-MAHALLE
+Mordoğan B-MAHALLE
+Mahallesi I-MAHALLE
+Atatürk B-CADDE
+Caddesi I-CADDE
+127 B-SOKAK
+.Sokak I-SOKAK
+No B-BINA_NO
+: I-BINA_NO
+5 I-BINA_NO
+Mordoğan B-ILCE
+/ O
+Karaburun B-ILCE
+
+Menteşeoğlu mah.Şehit cengiz topçu cad.691.sok. no:2 kat 1 MENTEŞEOĞLU FETHİYEMuğla FETHİYE Muğla TR ,121105,A
+Menteşeoğlu B-MAHALLE
+mah. I-MAHALLE
+Şehit B-CADDE
+cengiz I-CADDE
+topçu I-CADDE
+cad. I-CADDE
+691 B-SOKAK
+.sok. I-SOKAK
+no B-BINA_NO
+: I-BINA_NO
+2 I-BINA_NO
+kat B-KAT
+1 I-KAT
+MENTEŞEOĞLU B-MAHALLE
+FETHİYE B-ILCE
+Muğla B-IL
+FETHİYE B-ILCE
+Muğla B-IL
+TR O
+
+Karaçalı Mahallesi Kocatepe Caddesi No 11 5 Sokak / Dalaman, 48770, Dalaman, Muğla, Türkiye,800940,A
+Karaçalı B-MAHALLE
+Mahallesi I-MAHALLE
+Kocatepe B-CADDE
+Caddesi I-CADDE
+No B-BINA_NO
+11 I-BINA_NO
+5 B-SOKAK
+Sokak I-SOKAK
+/ O
+Dalaman B-ILCE
+48770 B-POSTA_KODU
+Dalaman B-ILCE
+Muğla B-IL
+Türkiye O
+
+Maltepe Mahallesi Mithatpaşa caddesi 54.sokak koç sitesi no:9/4 MALTEPE GÜZELBAHÇE İzmir,599360,A
+Maltepe B-MAHALLE
+Mahallesi I-MAHALLE
+Mithatpaşa B-CADDE
+caddesi I-CADDE
+54 B-SOKAK
+.sokak I-SOKAK
+koç B-SITE_ADI
+sitesi I-SITE_ADI
+no B-BINA_NO
+: I-BINA_NO
+9 I-BINA_NO
+/ B-DAIRE_NO
+4 I-DAIRE_NO
+MALTEPE B-MAHALLE
+GÜZELBAHÇE B-ILCE
+İzmir B-IL
+
+Karaçalı Mahallesi Şehit Kubilay Caddesi 2. Sokak Kardelen Apt Kat2 Daire4,336009,A
+Karaçalı B-MAHALLE
+Mahallesi I-MAHALLE
+Şehit B-CADDE
+Kubilay I-CADDE
+Caddesi I-CADDE
+2. B-SOKAK
+Sokak I-SOKAK
+Kardelen B-BINA_ADI
+Apt I-BINA_ADI
+Kat2 B-KAT
+Daire4 B-DAIRE_NO
+
+İnönü Caddesi. 240 Sk. No:3 Daire:9 Martı Apt Konak / İzmir MURAT REİS MAH,649602,A
+İnönü B-CADDE
+Caddesi. I-CADDE
+240 B-SOKAK
+Sk. I-SOKAK
+No B-BINA_NO
+: I-BINA_NO
+3 I-BINA_NO
+Daire B-DAIRE_NO
+: I-DAIRE_NO
+9 I-DAIRE_NO
+Martı B-BINA_ADI
+Apt I-BINA_ADI
+Konak B-ILCE
+/ O
+İzmir B-IL
+MURAT B-MAHALLE
+REİS I-MAHALLE
+MAH I-MAHALLE
+
+İSTİKLAL İSTİKLAL MH İSTİKLAL CD SABIR APT SK:115 NO:118/D sıkı iletişim merkez orta oku l karşısı İSTİKLAL PAMUKKALE Denizli İST İKLAL  Pamukkale DENIZLI Türkiye,845692,A
+İSTİKLAL B-MAHALLE
+İSTİKLAL I-MAHALLE
+MH I-MAHALLE
+İSTİKLAL B-CADDE
+CD I-CADDE
+SABIR B-BINA_ADI
+APT I-BINA_ADI
+SK B-SOKAK
+: I-SOKAK
+115 I-SOKAK
+NO B-BINA_NO
+: I-BINA_NO
+118 I-BINA_NO
+/ I-BINA_NO
+D I-BINA_NO
+sıkı B-TARIF
+iletişim I-TARIF
+merkez I-TARIF
+orta I-TARIF
+okul I-TARIF
+karşısı I-TARIF
+İSTİKLAL B-MAHALLE
+PAMUKKALE B-ILCE
+Denizli B-IL
+İSTİKLAL B-MAHALLE
+Pamukkale B-ILCE
+DENİZLİ B-IL
+Türkiye O
+
+Karabağ mh. Kavak cd. 7571 sk. Tanışan vadievler sit. No15/7 BODRUM 48,847306,A
+Karabağ B-MAHALLE
+mh. I-MAHALLE
+Kavak B-CADDE
+cd. I-CADDE
+7571 B-SOKAK
+sk. I-SOKAK
+Tanışan B-SITE_ADI
+vadievler I-SITE_ADI
+sit. I-SITE_ADI
+No B-BINA_NO
+15 I-BINA_NO
+/ B-DAIRE_NO
+7 I-DAIRE_NO
+BODRUM B-ILCE
+48 O
+
+Çarşı Mh. Çarşı Mahallesi, Şehit Üsteğmen Yüksel Çankaya Sok. Kooperatif Cad, Dış Kapı No:35,İç Kapı No: 09760 Aydın ÇARŞI BOZDOĞAN Aydın,641115,A
+Çarşı B-MAHALLE
+Mh. I-MAHALLE
+Çarşı B-MAHALLE
+Mahallesi I-MAHALLE
+Şehit B-SOKAK
+Üsteğmen I-SOKAK
+Yüksel I-SOKAK
+Çankaya I-SOKAK
+Sok. I-SOKAK
+Kooperatif B-CADDE
+Cad I-CADDE
+Dış B-BINA_NO
+Kapı I-BINA_NO
+No B-BINA_NO
+: I-BINA_NO
+35 I-BINA_NO
+İç B-DAIRE_NO
+Kapı I-DAIRE_NO
+No I-DAIRE_NO
+: I-DAIRE_NO
+09760 B-POSTA_KODU
+Aydın B-IL
+ÇARŞI B-MAHALLE
+BOZDOĞAN B-ILCE
+Aydın B-IL
+
+Güzelhisar Mah. Güzelhisar Mh Ulubatlı Cd 73 SK No 15A  Denetimli Serbestlik Müdürlüğü,464612,A
+Güzelhisar B-MAHALLE
+Mah. I-MAHALLE
+Güzelhisar B-MAHALLE
+Mh I-MAHALLE
+Ulubatlı B-CADDE
+Cd I-CADDE
+73 B-SOKAK
+SK I-SOKAK
+No B-BINA_NO
+15A I-BINA_NO
+Denetimli B-BINA_ADI
+Serbestlik I-BINA_ADI
+Müdürlüğü I-BINA_ADI
+
+Gerişaltı Mahallesi Erdemil Cad. 7. Sokak Yeni Semakent Sitesi. Daire 59. Yalıkavak Bodrum Muğla GERİŞ BODRUM Muğla,194709,A
+Gerişaltı B-MAHALLE
+Mahallesi I-MAHALLE
+Erdemil B-CADDE
+Cad. I-CADDE
+7. B-SOKAK
+Sokak I-SOKAK
+Yeni B-SITE_ADI
+Semakent I-SITE_ADI
+Sitesi I-SITE_ADI
+Daire B-DAIRE_NO
+59 I-DAIRE_NO
+Yalıkavak B-ILCE
+Bodrum B-ILCE
+Muğla B-IL
+GERİŞ B-MAHALLE
+BODRUM B-ILCE
+Muğla B-IL
+
+EskiCami mahallesi Atatürk Caddesi 16. Sokak no 8,725376,A
+EskiCami B-MAHALLE
+mahallesi I-MAHALLE
+Atatürk B-CADDE
+Caddesi I-CADDE
+16. B-SOKAK
+Sokak I-SOKAK
+no B-BINA_NO
+8 I-BINA_NO
+
+Umurça mahallesi. Derviş Görgün Caddesi. Şehit Hüseyin Helvacıoğlu Sokak. No:5/2  BODRUM/MUĞLA,253680,A
+Umurça B-MAHALLE
+mahallesi I-MAHALLE
+Derviş B-CADDE
+Görgün I-CADDE
+Caddesi I-CADDE
+Şehit B-SOKAK
+Hüseyin I-SOKAK
+Helvacıoğlu I-SOKAK
+Sokak I-SOKAK
+No B-BINA_NO
+: I-BINA_NO
+5 I-BINA_NO
+/ B-DAIRE_NO
+2 I-DAIRE_NO
+BODRUM B-ILCE
+/ O
+MUĞLA B-IL
+
+Yeni Mahalle Turizm Caddesi  Birlik Sokak No:3 D:1,798688,A
+Yeni B-MAHALLE
+Mahalle I-MAHALLE
+Turizm B-CADDE
+Caddesi I-CADDE
+Birlik B-SOKAK
+Sokak I-SOKAK
+No B-BINA_NO
+: I-BINA_NO
+3 I-BINA_NO
+D B-DAIRE_NO
+: I-DAIRE_NO
+1 I-DAIRE_NO
+
+Güzelcamlı Mahallesi Özertürk Caddesi Park Sok. No:2, 09460 Kuşadası/Aydın,16670,A
+Güzelcamlı B-MAHALLE
+Mahallesi I-MAHALLE
+Özertürk B-CADDE
+Caddesi I-CADDE
+Park B-SOKAK
+Sok. I-SOKAK
+No B-BINA_NO
+: I-BINA_NO
+2 I-BINA_NO
+09460 B-POSTA_KODU
+Kuşadası B-ILCE
+/ O
+Aydın B-IL
+
+Çiftlik Mah. Yalıçiftlik cad 3898 sok no 13 Muğla bodrum,805281,A
+Çiftlik B-MAHALLE
+Mah. I-MAHALLE
+Yalıçiftlik B-CADDE
+cad I-CADDE
+3898 B-SOKAK
+sok I-SOKAK
+no B-BINA_NO
+13 I-BINA_NO
+Muğla B-IL
+bodrum B-ILCE
+
+Akarca mah. Ögretmenler Cad. 840.sok. No:1/D Özel Lokman Hekim Esnaf Hastanesi Fethiye/MUGLA,40038,A
+Akarca B-MAHALLE
+mah. I-MAHALLE
+Ögretmenler B-CADDE
+Cad. I-CADDE
+840 B-SOKAK
+. I-SOKAK
+sok. I-SOKAK
+No B-BINA_NO
+: I-BINA_NO
+1 I-BINA_NO
+/ I-BINA_NO
+D I-BINA_NO
+Özel B-BINA_ADI
+Lokman I-BINA_ADI
+Hekim I-BINA_ADI
+Esnaf I-BINA_ADI
+Hastanesi I-BINA_ADI
+Fethiye B-ILCE
+/ O
+MUGLA B-IL
+
+Terzialiler mahallesi cengiz Topel caddesi 290 sokak  kat4 daire 22 NOSTERA temizlik ürünleri üst katı ,673522,A
+Terzialiler B-MAHALLE
+mahallesi I-MAHALLE
+cengiz B-CADDE
+Topel I-CADDE
+caddesi I-CADDE
+290 B-SOKAK
+sokak I-SOKAK
+kat4 B-KAT
+daire B-DAIRE_NO
+22 I-DAIRE_NO
+NOSTERA B-TARIF
+temizlik I-TARIF
+ürünleri I-TARIF
+üst I-TARIF
+katı I-TARIF
+
+Atatürk mahallesi Karaoğlanoğlu Caddesi 153. Sokak No:2 Kat:1 Ortaca/Muğla ATATÜRK ORTACA Muğla,826611,A
+Atatürk B-MAHALLE
+mahallesi I-MAHALLE
+Karaoğlanoğlu B-CADDE
+Caddesi I-CADDE
+153. B-SOKAK
+Sokak I-SOKAK
+No B-BINA_NO
+: I-BINA_NO
+2 I-BINA_NO
+Kat B-KAT
+: I-KAT
+1 I-KAT
+Ortaca B-ILCE
+/ O
+Muğla B-IL
+ATATÜRK B-MAHALLE
+ORTACA B-ILCE
+Muğla B-IL
+
+GOCEK MAH. DEREBOGAZI CAD. ONDER SOKAK NO:4/2 GOCEK FETHIYE MUGLA,398541,A
+GOCEK B-MAHALLE
+MAH. I-MAHALLE
+DEREBOGAZI B-CADDE
+CAD. I-CADDE
+ONDER B-SOKAK
+SOKAK I-SOKAK
+NO B-BINA_NO
+: I-BINA_NO
+4 I-BINA_NO
+/ B-DAIRE_NO
+2 I-DAIRE_NO
+GOCEK B-MAHALLE
+FETHIYE B-ILCE
+MUGLA B-IL
+
+ Atatürk mah, İstiklal Caddesi 356 sokak no 16 kat 4 daire 44 Aliağa izmir, 35800 Aliağa, Türkiye, 0,152252,A
+Atatürk B-MAHALLE
+mah I-MAHALLE
+İstiklal B-CADDE
+Caddesi I-CADDE
+356 B-SOKAK
+sokak I-SOKAK
+no B-BINA_NO
+16 I-BINA_NO
+kat B-KAT
+4 I-KAT
+daire B-DAIRE_NO
+44 I-DAIRE_NO
+Aliağa B-ILCE
+izmir B-IL
+
+Ali Fuat us caddesi 10005 sokak no:8 Doğa apt. Zemin kat daire 1 Mehmet Akif Ersoy Mh., Denizli, Merkezefendi, 20030 (als3),716964,A
+Ali B-CADDE
+Fuat I-CADDE
+us I-CADDE
+caddesi I-CADDE
+10005 B-SOKAK
+sokak I-SOKAK
+no B-BINA_NO
+: I-BINA_NO
+8 I-BINA_NO
+Doğa B-BINA_ADI
+apt. I-BINA_ADI
+Zemin B-KAT
+kat I-KAT
+daire B-DAIRE_NO
+1 I-DAIRE_NO
+Mehmet B-MAHALLE
+Akif I-MAHALLE
+Ersoy I-MAHALLE
+Mh. I-MAHALLE
+Denizli B-IL
+Merkezefendi B-ILCE
+
+Armutalan Mh. adnan menderes cad. M akif ersoy sok. no 7 daire 9 armutalan MARMARİS / MUĞLA MARMARİS MUĞLA,224106,A
+Armutalan B-MAHALLE
+Mh. I-MAHALLE
+adnan B-CADDE
+menderes I-CADDE
+cad. I-CADDE
+M B-SOKAK
+akif I-SOKAK
+ersoy I-SOKAK
+sok. I-SOKAK
+no B-BINA_NO
+7 I-BINA_NO
+daire B-DAIRE_NO
+9 I-DAIRE_NO
+armutalan B-MAHALLE
+MARMARİS B-ILCE
+/ O
+MUĞLA B-IL
+
+MERSİNDERE MAH   elman caddesi körfez sitesi 3627 sok.no:3/73 ,54534,A
+MERSİNDERE B-MAHALLE
+MAH I-MAHALLE
+elman B-CADDE
+caddesi I-CADDE
+körfez B-SITE_ADI
+sitesi I-SITE_ADI
+3627 B-SOKAK
+sok I-SOKAK
+no B-BINA_NO
+: I-BINA_NO
+3 I-BINA_NO
+/ B-DAIRE_NO
+73 I-DAIRE_NO
+
+Yeni mah Selanik cad 820 sok 21/5  Deniz Apt,280829,A
+Yeni B-MAHALLE
+mah I-MAHALLE
+Selanik B-CADDE
+cad I-CADDE
+820 B-SOKAK
+sok I-SOKAK
+21 B-BINA_NO
+/ B-DAIRE_NO
+5 I-DAIRE_NO
+Deniz B-BINA_ADI
+Apt I-BINA_ADI
+
+Bitez mah. belgamot cad. 2319 sok. no:6/ 3,543966,A
+Bitez B-MAHALLE
+mah. I-MAHALLE
+belgamot B-CADDE
+cad. I-CADDE
+2319 B-SOKAK
+sok. I-SOKAK
+no B-BINA_NO
+: I-BINA_NO
+6 I-BINA_NO
+/ B-DAIRE_NO
+3 I-DAIRE_NO
+
+Yıldırım Beyazıt caddesi, Rafet paşa mahallesi 5153 sok no 21, Çamdibi Bornova İzmir posta kodu 35090, kat 2 (zili açan olmazsa kat 1e basabilirsiniz) İzmir Bornova,356091,A
+Yıldırım B-CADDE
+Beyazıt I-CADDE
+caddesi I-CADDE
+Rafet B-MAHALLE
+paşa I-MAHALLE
+mahallesi I-MAHALLE
+5153 B-SOKAK
+sok I-SOKAK
+no B-BINA_NO
+21 I-BINA_NO
+Çamdibi B-ILCE
+Bornova B-ILCE
+İzmir B-IL
+posta B-POSTA_KODU
+kodu I-POSTA_KODU
+35090 I-POSTA_KODU
+kat B-KAT
+2 I-KAT
+( B-TARIF
+zili I-TARIF
+açan I-TARIF
+olmazsa I-TARIF
+kat I-TARIF
+1e I-TARIF
+basabilirsiniz I-TARIF
+) I-TARIF
+İzmir B-IL
+Bornova B-ILCE
+
+Tuzla Mahallesi Sadi Pekin caddesi 54.sokak no:3 Özel Lokman Hekim Esnaf Hastanesi Fethiye/Muğla,535574,A
+Tuzla B-MAHALLE
+Mahallesi I-MAHALLE
+Sadi B-CADDE
+Pekin I-CADDE
+caddesi I-CADDE
+54 B-SOKAK
+.sokak I-SOKAK
+no B-BINA_NO
+: I-BINA_NO
+3 I-BINA_NO
+Özel B-BINA_ADI
+Lokman I-BINA_ADI
+Hekim I-BINA_ADI
+Esnaf I-BINA_ADI
+Hastanesi I-BINA_ADI
+Fethiye B-ILCE
+/ O
+Muğla B-IL
+
+Çeşmealtı Denizli Mah. Harbiye Cad. 30.sk. Güzin Sitesi No 6 35450 Urla / Çeşmealtı DENİZLİ URLA İzmir,690864,A
+Çeşmealtı B-MAHALLE
+Denizli I-MAHALLE
+Mah. I-MAHALLE
+Harbiye B-CADDE
+Cad. I-CADDE
+30 B-SOKAK
+.sk. I-SOKAK
+Güzin B-SITE_ADI
+Sitesi I-SITE_ADI
+No B-BINA_NO
+6 I-BINA_NO
+35450 B-POSTA_KODU
+Urla B-ILCE
+/ O
+Çeşmealtı B-MAHALLE
+DENİZLİ B-MAHALLE
+URLA B-ILCE
+İzmir B-IL
+
+Soğancılar Mahallesi Şehler Caddesi 107 Sokak No:2 Kat:2 Çine/Aydın Soğancılar / Çine / Aydın SOĞANCILAR ÇİNE Aydın,643274,A
+Soğancılar B-MAHALLE
+Mahallesi I-MAHALLE
+Şehler B-CADDE
+Caddesi I-CADDE
+107 B-SOKAK
+Sokak I-SOKAK
+No B-BINA_NO
+: I-BINA_NO
+2 I-BINA_NO
+Kat B-KAT
+: I-KAT
+2 I-KAT
+Çine B-ILCE
+/ O
+Aydın B-IL
+Soğancılar B-MAHALLE
+/ O
+Çine B-ILCE
+/ O
+Aydın B-IL
+
+GÜZELÇAMLI MAHALLESİ DUMLUPINAR CADDESİ ÇAMLIK SOKAK KUŞADASI SAHİL SİTELERİ ÇAMLIK SAHİL SİTESİ 2.ADA 46 NUMARA
+GÜZELÇAMLI B-MAHALLE
+MAHALLESİ I-MAHALLE
+DUMLUPINAR B-CADDE
+CADDESİ I-CADDE
+ÇAMLIK B-SOKAK
+SOKAK I-SOKAK
+KUŞADASI B-ILCE
+SAHİL B-SITE_ADI
+SİTELERİ I-SITE_ADI
+ÇAMLIK B-SITE_ADI
+SAHİL I-SITE_ADI
+SİTESİ I-SITE_ADI
+2.ADA B-BINA_ADI
+46 B-DAIRE_NO
+NUMARA I-DAIRE_NO
+
+YENİGÜN MAHALLESİ 268 Sokak No:53 Kat:5 Daire:14 Karlık Si tesi B Blok Yenigün mahallesi Nazım Hikm et caddesi Buca İzmir   BUCA İZMIR Türkiye,752571,A
+YENİGÜN B-MAHALLE
+MAHALLESİ I-MAHALLE
+268 B-SOKAK
+Sokak I-SOKAK
+No B-BINA_NO
+: I-BINA_NO
+53 I-BINA_NO
+Kat B-KAT
+: I-KAT
+5 I-KAT
+Daire B-DAIRE_NO
+: I-DAIRE_NO
+14 I-DAIRE_NO
+Karlık B-SITE_ADI
+Sitesi I-SITE_ADI
+B B-BLOK
+Blok I-BLOK
+Yenigün B-MAHALLE
+mahallesi I-MAHALLE
+Nazım B-CADDE
+Hikmet I-CADDE
+caddesi I-CADDE
+Buca B-ILCE
+İzmir B-IL
+
+Ata cad. 35.Sokak Sitesi C-28 Menemen/Izmir İzmir 9 Eylül Mh.35660 9 EYLÜL MENEMEN İzmir,541591,A
+Ata B-CADDE
+cad. I-CADDE
+35 B-SOKAK
+.Sokak I-SOKAK
+Sitesi B-SITE_ADI
+C-28 B-BINA_NO
+Menemen B-ILCE
+/ O
+Izmir B-IL
+İzmir B-IL
+9 B-MAHALLE
+Eylül I-MAHALLE
+Mh. I-MAHALLE
+35660 B-POSTA_KODU
+9 B-MAHALLE
+EYLÜL I-MAHALLE
+MENEMEN B-ILCE
+İzmir B-IL
+
+Bitez mah. yalı sitesi kocataş caddesi petünya sokak no 135 bodrum mugla,518286,A
+Bitez B-MAHALLE
+mah. I-MAHALLE
+yalı B-SITE_ADI
+sitesi I-SITE_ADI
+kocataş B-CADDE
+caddesi I-CADDE
+petünya B-SOKAK
+sokak I-SOKAK
+no B-BINA_NO
+135 I-BINA_NO
+bodrum B-ILCE
+mugla B-IL
+
+Çıldır Mh. Hasan Işık Cd. 121.Sokak Ankaralılar Apt. No:8/3 Marmaris/Muğla/Türkiye,71467,A
+Çıldır B-MAHALLE
+Mh. I-MAHALLE
+Hasan B-CADDE
+Işık I-CADDE
+Cd. I-CADDE
+121 B-SOKAK
+.Sokak I-SOKAK
+Ankaralılar B-BINA_ADI
+Apt. I-BINA_ADI
+No B-BINA_NO
+: I-BINA_NO
+8 I-BINA_NO
+/ B-DAIRE_NO
+3 I-DAIRE_NO
+Marmaris B-ILCE
+/ O
+Muğla B-IL
+/ O
+Türkiye O
+
+Müskebi Mah Müskebi Cad. 2691 Sok. Kapı 6 Bina B (Fırat İnşaat Evleri İlk Bina),804181,A
+Müskebi B-MAHALLE
+Mah I-MAHALLE
+Müskebi B-CADDE
+Cad. I-CADDE
+2691 B-SOKAK
+Sok. I-SOKAK
+Kapı B-DAIRE_NO
+6 I-DAIRE_NO
+Bina B-BINA_ADI
+B I-BINA_ADI
+( B-TARIF
+Fırat I-TARIF
+İnşaat I-TARIF
+Evleri I-TARIF
+İlk I-TARIF
+Bina I-TARIF
+) I-TARIF
+
+Frenk azmağı caddesi 149.sokak dirmil mahallesi Aldebaran villaları  F blok bodrum,468741,A
+Frenk B-CADDE
+azmağı I-CADDE
+caddesi I-CADDE
+149 B-SOKAK
+.sokak I-SOKAK
+dirmil B-MAHALLE
+mahallesi I-MAHALLE
+Aldebaran B-BINA_ADI
+villaları I-BINA_ADI
+F B-BINA_ADI
+blok I-BINA_ADI
+bodrum B-ILCE
+
+5057 SK NO 10 DAİRE 4 EGE SİTESİ ,7948,205,B
+5057 B-SOKAK
+SK I-SOKAK
+NO B-BINA_NO
+10 I-BINA_NO
+DAİRE B-DAIRE_NO
+4 I-DAIRE_NO
+EGE B-SITE_ADI
+SİTESİ I-SITE_ADI
+
+
+6511 Sokak. Mavişehir Siena Evleri No:4 B Blok Daire:8, YALI,312968,B
+6511 B-SOKAK
+Sokak I-SOKAK
+Mavişehir B-SITE_ADI
+Siena I-SITE_ADI
+Evleri I-SITE_ADI
+No B-BINA_NO
+: I-BINA_NO
+4 I-BINA_NO
+B BINA_ADI
+Blok I-BINA_ADI
+Daire B-DAIRE_NO
+: I-DAIRE_NO
+8 I-DAIRE_NO
+YALI B-MAHALLE
+
+
+9755 sokak no:77 daire 4 can apartmanı ,734675,B
+9755 B-SOKAK
+sokak I-SOKAK
+no B-BINA_NO
+: I-BINA_NO
+77 I-BINA_NO
+daire B-DAIRE_NO
+4 I-DAIRE_NO
+can B-BINA_ADI
+apartmanı I-BINA_ADI
+
+
+4053 SOKAK NO 83 DAİRE 8 KAT 4 ÖZEL APT YEŞİLOVA BORNOVA İZMİR,192556,B
+4053 B-SOKAK
+SOKAK I-SOKAK
+NO B-BINA_NO
+83 I-BINA_NO
+DAİRE B-DAIRE_NO
+8 I-DAIRE_NO
+KAT B-KAT
+4 I-KAT
+ÖZEL B-BINA_ADI
+APT I-BINA_ADI
+YEŞİLOVA B-MAHALLE
+BORNOVA B-ILCE
+İZMİR B-IL
+
+
+ 7040. Sokak, 2/1 Daire No: 1 Gümüşpala, Bayraklı, İzmir, Türkiye 35510 GÜMÜŞPALA BAYRAKLI İzmir,63070,B
+7040 B-SOKAK
+Sokak I-SOKAK
+2 B-BINA_NO
+/ B-DAIRE_NO
+1 I-DAIRE_NO
+Daire B-DAIRE_NO
+No I-DAIRE_NO
+: I-DAIRE_NO
+1 I-DAIRE_NO
+Gümüşpala B-MAHALLE
+Bayraklı B-ILCE
+İzmir B-IL
+Türkiye O
+35510 B-POSTA_KODU
+GÜMÜŞPALA B-MAHALLE
+BAYRAKLI B-ILCE
+İzmir B-IL
+
+
+6252 sok 3A nalbur Hüseyin Akkaya ŞEMİKLER KARŞIYAKA İzmir,120662,B
+6252 B-SOKAK
+sok I-SOKAK
+3A B-BINA_NO
+nalbur B-TARIF
+Hüseyin B-BINA_ADI
+Akkaya I-BINA_ADI
+ŞEMİKLER B-MAHALLE
+KARŞIYAKA B-ILCE
+İzmir B-IL
+
+
+Şehit Adnan Menderes bulvarı no::117 kat:1 ANAFARTALAR ÖDEMİŞ İzmir,242458,B
+Şehit B-BULVAR
+Adnan I-BULVAR
+Menderes I-BULVAR
+bulvarı I-BULVAR
+no B-BINA_NO
+: I-BINA_NO
+: I-BINA_NO
+117 I-BINA_NO
+kat B-KAT
+: I-KAT
+1 I-KAT
+ANAFARTALAR B-MAHALLE
+ÖDEMİŞ B-ILCE
+İzmir B-IL
+
+
+Çayır Caddesi, No 69 SAMANLIK TAVAS Denizli,160237,B
+Çayır B-CADDE
+Caddesi I-CADDE
+No B-BINA_NO
+69 I-BINA_NO
+SAMANLIK B-MAHALLE
+TAVAS B-ILCE
+Denizli B-IL
+
+
+Anadolu caddesi no:951 kat 5 çiğli belediyesi iş hanı 2 asliye hukuk mahkemesi kalemi 1523 nolu oda ATAŞEHİR ÇİĞLİ İzmir,283130,B
+Anadolu B-CADDE
+caddesi I-CADDE
+no B-BINA_NO
+: I-BINA_NO
+951 I-BINA_NO
+kat B-KAT
+5 I-KAT
+çiğli B-BINA_ADI
+belediyesi I-BINA_ADI
+iş I-BINA_ADI
+hanı I-BINA_ADI
+2 B-TARIF
+asliye I-TARIF
+hukuk I-TARIF
+mahkemesi I-TARIF
+kalemi I-TARIF
+1523 B-TARIF
+nolu I-TARIF
+oda I-TARIF
+ATAŞEHİR B-MAHALLE
+ÇİĞLİ B-ILCE
+İzmir B-IL
+
+
+243. Sk. BMC Sitesi Burcu Apartmanı No:5/1 K7 D15,812427,B
+243. B-SOKAK
+Sk I-SOKAK
+BMC B-SITE_ADI
+Sitesi I-SITE_ADI
+Burcu B-BINA_ADI
+Apartmanı I-BINA_ADI
+No B-BINA_NO
+: I-BINA_NO
+5 I-BINA_NO
+/ B-DAIRE_NO
+1 I-DAIRE_NO
+K7 B-KAT
+D15 B-DAIRE_NO
+
+
+2232/1 Sokak no 6  Simaynur  apartmanı daire 7 HİSAR DİDİM Aydın,58108,B
+2232 B-SOKAK
+/ I-SOKAK
+1 I-SOKAK
+Sokak I-SOKAK
+no B-BINA_NO
+6 I-BINA_NO
+Simaynur B-BINA_ADI
+apartmanı I-BINA_ADI
+daire B-DAIRE_NO
+7 I-DAIRE_NO
+HİSAR B-MAHALLE
+DİDİM B-ILCE
+Aydın B-IL
+
+
+8. CAD. NO:11 D:3 ,430707,B
+8. B-CADDE
+CAD I-CADDE
+NO B-BINA_NO
+: I-BINA_NO
+11 I-BINA_NO
+D B-DAIRE_NO
+: I-DAIRE_NO
+3 I-DAIRE_NO
+
+
+İSMAİL TAŞLI CAD.NO:12 BELLONA SHOWROOM,599401,B
+İSMAİL B-CADDE
+TAŞLI I-CADDE
+CAD I-CADDE
+NO B-BINA_NO
+: I-BINA_NO
+12 I-BINA_NO
+BELLONA B-BINA_ADI
+SHOWROOM I-BINA_ADI
+
+ÜNAL ÖZGÖDEK BULVARI OTAĞ SİTESİ C BLOK NO:8/C DAİRE:3 ,474888,B
+ÜNAL B-BULVAR
+ÖZGÖDEK I-BULVAR
+BULVARI I-BULVAR
+OTAĞ B-SITE_ADI
+SİTESİ I-SITE_ADI
+C B-BINA_ADI
+BLOK I-BINA_ADI
+NO B-BINA_NO
+: I-BINA_NO
+8 I-BINA_NO
+/ I-BINA_NO
+C I-BINA_NO
+DAİRE B-DAIRE_NO
+: I-DAIRE_NO
+3 I-DAIRE_NO
+
+Taslibogaz bulvari No: 10 daire: 9,484739,B
+Taslibogaz B-BULVAR
+bulvari I-BULVAR
+No B-BINA_NO
+: I-BINA_NO
+10 I-BINA_NO
+daire B-DAIRE_NO
+: I-DAIRE_NO
+9 I-DAIRE_NO
+
+Kardeşler Sitesi Farilya Küçükbük Cad. Frezya Sok. No:38 Kat:0 Daire:38 sokagin sonunda sagdaki ev GÜNDOĞAN BODRUM Muğla,463505,B
+Kardeşler B-SITE_ADI
+Sitesi I-SITE_ADI
+Farilya B-CADDE
+Küçükbük I-CADDE
+Cad. I-CADDE
+Frezya B-SOKAK
+Sok. I-SOKAK
+No B-BINA_NO
+: I-BINA_NO
+38 I-BINA_NO
+Kat B-KAT
+: I-KAT
+0 I-KAT
+Daire B-DAIRE_NO
+: I-DAIRE_NO
+38 I-DAIRE_NO
+sokagin B-TARIF
+sonunda I-TARIF
+sagdaki I-TARIF
+ev I-TARIF
+GÜNDOĞAN B-MAHALLE
+BODRUM B-ILCE
+Muğla B-IL
+
+Aosb 10046 sok no 6 aosb cigli izmir ,7002,B
+Aosb B-MAHALLE
+10046 B-SOKAK
+sok I-SOKAK
+no B-BINA_NO
+6 I-BINA_NO
+aosb B-MAHALLE
+cigli B-ILCE
+izmir B-IL
+
+Eski Borlu, Şahin3 sokak no. 8 da.2 Köprübaşı/Manisa,639090,B
+Eski B-MAHALLE
+Borlu I-MAHALLE
+Şahin3 B-SOKAK
+sokak I-SOKAK
+no B-BINA_NO
+. I-BINA_NO
+8 I-BINA_NO
+da B-DAIRE_NO
+. I-DAIRE_NO
+2 I-DAIRE_NO
+Köprübaşı B-ILCE
+Manisa B-IL
+
+Flipper Sk. No:10, Club Flipper (Resepsiyon) (Daire: 10/4) DİRMİL BODRUM Muğla,407295,B
+Flipper B-SOKAK
+Sk. I-SOKAK
+No B-BINA_NO
+: I-BINA_NO
+10 I-BINA_NO
+Club B-TARIF
+Flipper I-TARIF
+( I-TARIF
+Resepsiyon I-TARIF
+) I-TARIF
+( O
+Daire B-DAIRE_NO
+: I-DAIRE_NO
+10 I-DAIRE_NO
+/ I-DAIRE_NO
+4 I-DAIRE_NO
+) O
+DİRMİL B-MAHALLE
+BODRUM B-ILCE
+Muğla B-IL
+
+18 sokak 69 K. 2 D. 9,485184,B
+18 B-SOKAK
+sokak I-SOKAK
+69 B-BINA_NO
+K. B-KAT
+2 I-KAT
+D. B-DAIRE_NO
+9 I-DAIRE_NO
+
+Cumhuriyet cad.özkul apt.no:3/4 Aliağa izmir,185571,B
+Cumhuriyet B-CADDE
+cad. I-CADDE
+özkul B-BINA_ADI
+apt. I-BINA_ADI
+no B-BINA_NO
+: I-BINA_NO
+3 I-BINA_NO
+/ B-DAIRE_NO
+4 I-DAIRE_NO
+Aliağa B-ILCE
+izmir B-IL
+
+180 sk rukiye apartman no 1 dr 2 kasap lokman üstü,848163,B
+180 B-SOKAK
+sk I-SOKAK
+rukiye B-BINA_ADI
+apartman I-BINA_ADI
+no B-BINA_NO
+1 I-BINA_NO
+dr B-DAIRE_NO
+2 I-DAIRE_NO
+kasap B-TARIF
+lokman I-TARIF
+üstü I-TARIF
+
+Doğu denizli bulvarı no: 9B Bim Mağazası,284290,B
+Doğu B-BULVAR
+denizli I-BULVAR
+bulvarı B-BULVAR
+no B-BINA_NO
+: I-BINA_NO
+9B I-BINA_NO
+Bim B-TARIF
+Mağazası I-TARIF
+
+Şehit öz Polat caddesi no:11 kat:4 daire:5,844922,B
+Şehit B-CADDE
+öz I-CADDE
+Polat I-CADDE
+caddesi I-CADDE
+no B-BINA_NO
+: I-BINA_NO
+11 I-BINA_NO
+kat B-KAT
+: I-KAT
+4 I-KAT
+daire B-DAIRE_NO
+: I-DAIRE_NO
+5 I-DAIRE_NO
+
+3208 SOKAK 14/2 KAT:2,815985,B
+3208 B-SOKAK
+SOKAK I-SOKAK
+14 B-BINA_NO
+/ B-DAIRE_NO
+2 I-DAIRE_NO
+KAT B-KAT
+: I-KAT
+2 I-KAT
+
+222/14 sokak no:32 daire:2  YENİGÜN BUCA İzmir,175173,B
+222 B-SOKAK
+/ I-SOKAK
+14 I-SOKAK
+Sokak I-SOKAK
+no B-BINA_NO
+: I-BINA_NO
+32 I-BINA_NO
+daire B-DAIRE_NO
+: I-DAIRE_NO
+2 I-DAIRE_NO
+YENİGÜN B-MAHALLE
+BUCA B-ILCE
+İzmir B-IL
+
+İnönü caddesi ırmak apartmanı no:36 kat:4 daire:5,523535,B
+İnönü B-CADDE
+caddesi I-CADDE
+ırmak B-BINA_ADI
+apartmanı I-BINA_ADI
+no B-BINA_NO
+: I-BINA_NO
+36 I-BINA_NO
+kat B-KAT
+: I-KAT
+4 I-KAT
+daire B-DAIRE_NO
+: I-DAIRE_NO
+5 I-DAIRE_NO
+
+10000. Sk. BAKNET No:5 ATATÜRK OSB ÇİĞLİ İzmir,763748,B
+10000. B-SOKAK
+Sk. I-SOKAK
+BAKNET B-BINA_ADI
+No B-BINA_NO
+: I-BINA_NO
+5 I-BINA_NO
+ATATÜRK B-MAHALLE
+OSB I-MAHALLE
+ÇİĞLİ B-ILCE
+İzmir B-IL
+
+organize sanayi bölgesi 7.cadde no 10 Nazilli AYDIN (nazilli ekomak makina),447207,B
+organize B-TARIF
+sanayi I-TARIF
+bölgesi I-TARIF
+7. B-CADDE
+cadde I-CADDE
+no B-BINA_NO
+10 I-BINA_NO
+Nazilli B-ILCE
+AYDIN B-IL
+(nazilli B-TARIF
+ekomak I-TARIF
+makina) I-TARIF
+
+
+ş.albay karaoğlanoğlu cd. no:42A,120926,B
+ş.albay B-CADDE
+karaoğlanoğlu I-CADDE
+cd. I-CADDE
+no B-BINA_NO
+: I-BINA_NO
+42A I-BINA_NO
+
+Karahasanli mahallesi 2035/2 sk no:3 da:3 Zeynep apartmanı,23,C
+Karahasanli B-MAHALLE
+mahallesi I-MAHALLE
+2035 B-SOKAK
+/ I-SOKAK
+2 I-SOKAK
+sk I-SOKAK
+no B-BINA_NO
+: I-BINA_NO
+3 I-BINA_NO
+Zeynep B-BINA_ADI
+apartmanı I-BINA_ADI
+
+Vatan Mahallesi 9105 Sokak 67/1 Utku Apartmanı Kat 2 Daire 3  KARABAĞLAR İzmir,561,C
+Vatan B-MAHALLE
+Mahallesi I-MAHALLE
+9105 B-SOKAK
+Sokak I-SOKAK
+67 B-BINA_NO
+/ B-DAIRE_NO
+1 I-DAIRE_NO
+Utku B-BINA_ADI
+Apartmanı I-BINA_ADI
+Kat B-KAT
+2 I-KAT
+Daire B-DAIRE_NO
+3 I-DAIRE_NO
+KARABAĞLAR B-ILCE
+İzmir B-IL
+
+ONUR MAHALLESİ 7370 Sokak No:5  Kat :14 Daire :56 (Yelk enpark A Blok)    BAYRAKLI İZMIR Türkiye,1648,C
+ONUR B-MAHALLE
+MAHALLESİ I-MAHALLE
+7370 B-SOKAK
+Sokak I-SOKAK
+No B-BINA_NO
+: I-BINA_NO
+5 I-BINA_NO
+Kat B-KAT
+: I-KAT
+14 I-KAT
+Daire B-DAIRE_NO
+: I-DAIRE_NO
+56 I-DAIRE_NO
+Yelk B-SITE_ADI
+enpark I-SITE_ADI
+A B-BINA_ADI
+Blok I-BINA_ADI
+BAYRAKLI B-ILCE
+İZMIR B-IL
+Türkiye O
+
+Kaklık mahallesi/ 201 sokak/ No:11 KAKLIK HONAZ Denizli,2429,C
+Kaklık B-MAHALLE
+mahallesi I-MAHALLE
+/ O
+201 B-SOKAK
+sokak I-SOKAK
+/ O
+No B-BINA_NO
+: I-BINA_NO
+11 I-BINA_NO
+KAKLIK B-MAHALLE
+HONAZ B-ILCE
+Denizli B-IL
+
+ATATÜRK MAH Atatürk mah 949 sokak no 9 d 3 Bornova /izmir BORNOVA,3334,C
+ATATÜRK B-MAHALLE
+MAH I-MAHALLE
+Atatürk B-MAHALLE
+mah I-MAHALLE
+949 B-SOKAK
+sokak I-SOKAK
+no B-BINA_NO
+9 I-BINA_NO
+d B-DAIRE_NO
+3 I-DAIRE_NO
+Bornova B-ILCE
+/ O
+izmir B-IL
+BORNOVA B-ILCE
+
+Siteler Mh. Siteler mahallesi cumhuriyet blv no:25 ankara sitesi 25/DA AVLU COFFEE MARMARİS MUĞLA,264911,C
+Siteler B-MAHALLE
+Mh. I-MAHALLE
+Siteler B-MAHALLE
+mahallesi I-MAHALLE
+cumhuriyet B-BULVAR
+blv I-BULVAR
+no B-BINA_NO
+: I-BINA_NO
+25 I-BINA_NO
+ankara B-SITE_ADI
+sitesi I-SITE_ADI
+25 B-DAIRE_NO
+/ O
+DA O
+AVLU B-TARIF
+COFFEE I-TARIF
+MARMARİS B-ILCE
+MUĞLA B-IL
+
+ASAGI MAH FIDANLIK SOKAK NO2 HÜSEYIN ÇOBAN APT SERINHISAR,265589,C
+ASAGI B-MAHALLE
+MAH I-MAHALLE
+FIDANLIK B-SOKAK
+SOKAK I-SOKAK
+NO B-BINA_NO
+2 I-BINA_NO
+HÜSEYIN B-BINA_ADI
+ÇOBAN I-BINA_ADI
+APT I-BINA_ADI
+SERINHISAR B-ILCE
+
+Yıldırım mahallesi Çimentepe Sokak no 12 Kat:2,266211,C
+Yıldırım B-MAHALLE
+mahallesi I-MAHALLE
+Çimentepe B-SOKAK
+Sokak I-SOKAK
+no B-BINA_NO
+12 I-BINA_NO
+Kat B-KAT
+: I-KAT
+2 I-KAT
+
+Haluk alpsu bulvarı,cumhuriyet mah gül aprtmanı-27.blok-daire 18-kat 2 35870,266733,C
+Haluk B-BULVAR
+alpsu I-BULVAR
+bulvarı I-BULVAR
+cumhuriyet B-MAHALLE
+mah I-MAHALLE
+gül B-BINA_ADI
+aprtmanı I-BINA_ADI
+- O
+27 B-BINA_ADI
+blok I-BINA_ADI
+- O
+daire B-DAIRE_NO
+18 I-DAIRE_NO
+kat B-KAT
+2 I-KAT
+35870 B-POSTA_KODU
+
+Şemikler mah. Cinkaya bulvarı Egeparkevleri c14 no 105 Merkezefendi / Denizli,267229,C
+Şemikler B-MAHALLE
+mah. I-MAHALLE
+Cinkaya B-BULVAR
+bulvarı I-BULVAR
+Egeparkevleri B-SITE_ADI
+c14 I-BINA_ADI
+no B-BINA_NO
+105 I-BINA_NO
+Merkezefendi B-ILCE
+/ O
+Denizli B-IL
+
+Güvercinlik Mah. Yakamoz Sk. No. 10/1 48450 Bodrum -  Muğla BODRUM Muğla,267799,C
+Güvercinlik B-MAHALLE
+Mah. I-MAHALLE
+Yakamoz B-SOKAK
+Sk. I-SOKAK
+No B-BINA_NO
+10 I-BINA_NO
+/ I-DAIRE_NO
+1 I-DAIRE_NO
+48450 B-POSTA_KODU
+Bodrum B-ILCE
+- O
+Muğla B-IL
+BODRUM B-ILCE
+Muğla B-IL
+
+Akçeşme mahallesi 2001 sokak no:18 doğrar metal (metal bölümü) ,268298,C
+Akçeşme B-MAHALLE
+mahallesi I-MAHALLE
+2001 B-SOKAK
+sokak I-SOKAK
+no B-BINA_NO
+: I-BINA_NO
+18 I-BINA_NO
+doğrar B-TARIF
+metal I-TARIF
+( B-TARIF
+metal I-TARIF
+bölümü I-TARIF
+) I-TARIF
+
+KEMALPAŞA MAH. 7055 SOK. NO:89 D:3 PINARBAŞI-BORNOVA İZMİR BORNOVA İzmir TR ,269128,C
+KEMALPAŞA B-MAHALLE
+MAH. I-MAHALLE
+7055 B-SOKAK
+SOK. I-SOKAK
+NO B-BINA_NO
+: I-BINA_NO
+89 I-BINA_NO
+D B-DAIRE_NO
+: I-DAIRE_NO
+3 I-DAIRE_NO
+PINARBAŞI B-MAHALLE
+- O
+BORNOVA B-ILCE
+İZMİR B-IL
+BORNOVA B-ILCE
+İzmir B-IL
+TR O
+
+Gazi Mustafa Kemal Mah. 4112, 1. Sk. no:1-3, 35040 Menemen, İzmir.  Kyk erkek yurdu. GAZİ MUSTAFA KEMAL MENEMEN İzmir,269490,C
+Gazi B-MAHALLE
+Mustafa I-MAHALLE
+Kemal I-MAHALLE
+Mah. I-MAHALLE
+4112 B-SOKAK
+1. B-SOKAK
+Sk. I-SOKAK
+no B-BINA_NO
+: I-BINA_NO
+1 I-BINA_NO
+- B-DAIRE_NO
+3 I-DAIRE_NO
+35040 B-POSTA_KODU
+Menemen B-ILCE
+İzmir B-IL
+Kyk B-TARIF
+erkek I-TARIF
+yurdu I-TARIF
+GAZİ B-MAHALLE
+MUSTAFA I-MAHALLE
+KEMAL I-MAHALLE
+MENEMEN B-ILCE
+İzmir B-IL
+
+girne bulvarı no 44/b aksoy mahallesi ,270025,C
+girne B-BULVAR
+bulvarı I-BULVAR
+no B-BINA_NO
+44 I-BINA_NO
+/ I-BINA_NO
+b I-BINA_NO
+aksoy B-MAHALLE
+mahallesi I-MAHALLE
+
+yalı mh.6518/6 sk. no:3 d:13 mavişehir suit,270500,C
+yalı B-MAHALLE
+mh. I-MAHALLE
+6518 B-SOKAK
+/ I-SOKAK
+6 I-SOKAK
+sk. I-SOKAK
+no B-BINA_NO
+: I-BINA_NO
+3 I-BINA_NO
+d B-DAIRE_NO
+: I-DAIRE_NO
+13 I-DAIRE_NO
+mavişehir B-TARIF
+suit I-TARIF
+
+Esnaf ve Sanatkarlar Sitesi (130 daireli)  Blok:3D  Daire:6. 5.sokak Yenişehir Mh. YENİŞEHİR MERKEZEFENDİ Denizli MERKEZEFENDİ Denizli TR ,270976,C
+Esnaf B-SITE_ADI
+ve I-SITE_ADI
+Sanatkarlar I-SITE_ADI
+Sitesi I-SITE_ADI
+( B-TARIF
+130 I-TARIF
+daireli I-TARIF
+) I-TARIF
+Blok B-BINA_ADI
+: I-BINA_ADI
+3D I-BINA_ADI
+Daire B-DAIRE_NO
+: I-DAIRE_NO
+6 I-DAIRE_NO
+5 B-SOKAK
+sokak I-SOKAK
+Yenişehir B-MAHALLE
+Mh. I-MAHALLE
+YENİŞEHİR B-MAHALLE
+MERKEZEFENDİ B-ILCE
+Denizli B-IL
+MERKEZEFENDİ B-ILCE
+Denizli B-IL
+TR O
+
+3644 Sokak No/15 Daire:2 Mehtap Mah. Konak/izmir Konak,271178,C
+3644 B-SOKAK
+Sokak I-SOKAK
+No B-BINA_NO
+/ I-BINA_NO
+15 I-BINA_NO
+Daire B-DAIRE_NO
+: I-DAIRE_NO
+2 I-DAIRE_NO
+Mehtap B-MAHALLE
+Mah. I-MAHALLE
+Konak B-ILCE
+/ O
+izmir B-IL
+Konak B-ILCE
+
+HÜRRIYET MAHALLESI 1057.SOKAK NO:14 KAT:1 GAZIEMIR/IZMIR GAZIEMIR,271596,C
+HÜRRIYET B-MAHALLE
+MAHALLESI I-MAHALLE
+1057 B-SOKAK
+SOKAK I-SOKAK
+NO B-BINA_NO
+: I-BINA_NO
+14 I-BINA_NO
+KAT B-KAT
+: I-KAT
+1 I-KAT
+GAZIEMIR B-ILCE
+/ O
+IZMIR B-IL
+GAZIEMİR B-ILCE
+
+Yalı Mh. 6504 Sokak No:3 Kat:3 Daire:9 Su Evleri  Sitesi  A blok KARŞIYAKA İZMİR,272010,C
+Yalı B-MAHALLE
+Mh I-MAHALLE
+6504 B-SOKAK
+Sokak I-SOKAK
+No B-BINA_NO
+: I-BINA_NO
+3 I-BINA_NO
+Kat B-KAT
+: I-KAT
+3 I-KAT
+Daire B-DAIRE_NO
+: I-DAIRE_NO
+9 I-DAIRE_NO
+Su B-SITE_ADI
+Evleri I-SITE_ADI
+Sitesi I-SITE_ADI
+A B-BINA_ADI
+blok I-BINA_ADI
+KARŞIYAKA B-ILCE
+İZMİR B-IL
+
+Ertuğrul Mah. 3091 Sokak Ata Sitesi C Blok No:1/2 Kat:3 Daire:6 Berat İnş.,469428,C
+Ertuğrul B-MAHALLE
+Mah I-MAHALLE
+3091 B-SOKAK
+Sokak I-SOKAK
+Ata B-SITE_ADI
+Sitesi I-SITE_ADI
+C B-BINA_ADI
+Blok I-BINA_ADI
+No B-BINA_NO
+: I-BINA_NO
+1 I-BINA_NO
+/ B-DAIRE_NO
+2 I-DAIRE_NO
+Kat B-KAT
+: I-KAT
+3 I-KAT
+Daire B-DAIRE_NO
+: I-DAIRE_NO
+6 I-DAIRE_NO
+Berat B-TARIF
+İnş I-TARIF
+
+Emir Beyazıt Mahallesi Poyraz Sokak No 13 Daire 13,469495,C
+Emir B-MAHALLE
+Beyazıt I-MAHALLE
+Mahallesi I-MAHALLE
+Poyraz B-SOKAK
+Sokak I-SOKAK
+No B-BINA_NO
+13 I-BINA_NO
+Daire B-DAIRE_NO
+13 I-DAIRE_NO
+
+Fevzi çakmak mahallesi 30. Sok. No:7 daire:2,645130,C
+Fevzi B-MAHALLE
+çakmak I-MAHALLE
+mahallesi I-MAHALLE
+30 B-SOKAK
+Sok I-SOKAK
+No B-BINA_NO
+: I-BINA_NO
+7 I-BINA_NO
+daire B-DAIRE_NO
+: I-DAIRE_NO
+2 I-DAIRE_NO
+
+Kurtuluş mah 692 sk no 16 k:3 d:3,645650,C
+Kurtuluş B-MAHALLE
+mah I-MAHALLE
+692 B-SOKAK
+sk I-SOKAK
+no B-BINA_NO
+16 I-BINA_NO
+k B-KAT
+: I-KAT
+3 I-KAT
+d B-DAIRE_NO
+: I-DAIRE_NO
+3 I-DAIRE_NO
+
+```

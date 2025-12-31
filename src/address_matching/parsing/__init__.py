@@ -1,0 +1,1 @@
+from .static_parser import StaticAddressParser

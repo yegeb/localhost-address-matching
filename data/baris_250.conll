@@ -1,0 +1,39 @@
+410754,Cumhuriyet mahallesi Ugurmumcu caddesi 1036 sokak no:50 Daire:3
+Cumhuriyet B-MAHALLE
+mahallesi I-MAHALLE
+Ugurmumcu B-CADDE
+caddesi I-CADDE
+1036 B-SOKAK
+sokak I-SOKAK
+no B-BINA_NO
+: I-BINA_NO
+50 I-BINA_NO
+Daire B-DAIRE_NO
+: I-DAIRE_NO
+3 I-DAIRE_NO
+
+652859,Gerzele mahallesi Geriz caddesi 111 sokak Pusulam kursu üstü ( bina adı yoktur ) kat:3 daire:3 Servergazi Merkezefendi Merkezefendi / Denizli
+Gerzele B-MAHALLE
+mahallesi I-MAHALLE
+Geriz B-CADDE
+caddesi I-CADDE
+111 B-SOKAK
+sokak I-SOKAK
+Pusulam TARIF
+kursu TARIF
+üstü TARIF
+( TARIF
+bina TARIF
+adı TARIF
+yoktur TARIF
+) TARIF
+Kat B-KAT
+: I-KAT
+3 I-KAT
+Daire B-DAIRE_NO
+: I-DAIRE_NO
+3 I-DAIRE_NO
+Severgazi B-MAH
+Merkezefendi B-ILCE
+Denizli B-IL
+

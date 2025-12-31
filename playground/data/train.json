@@ -1,0 +1,3 @@
+{"tokens": ["Barbaros", "Mahallesi", "Çiğdem", "Sokak", "No", ":", "5", "Üsküdar", "İstanbul"], "labels": ["B-MAH", "I-MAH", "B-SOK", "I-SOK", "O", "O", "B-NO", "B-ILCE", "B-IL"]}
+{"tokens": ["Atatürk", "Caddesi", "No", ":", "12", "Bornova", "İzmir"], "labels": ["B-SOK", "I-SOK", "O", "O", "B-NO", "B-ILCE", "B-IL"]}
+{"tokens": ["Cumhuriyet", "Mah.", "100", "Yıl", "Caddesi", "Ankara"], "labels": ["B-MAH", "I-MAH", "B-SOK", "I-SOK", "I-SOK", "B-IL"]}
