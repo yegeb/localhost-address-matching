@@ -26,11 +26,20 @@ Our goal was to solve the challenge of unstructured address data by building a r
 - Python 3.8+
 
 ### Install Dependencies
-Clone the repository and install the required packages:
+
+It is recommended to use a virtual environment:
 
 ```bash
-git clone https://github.com/yegeb/localhost-address-matching.git
-cd localhost-address-matching
+# Create virtual environment
+python3 -m venv venv
+
+# Activate virtual environment
+# On Windows:
+venv\Scripts\activate
+# On macOS/Linux:
+source venv/bin/activate
+
+# Install dependencies
 pip install -r requirements.txt
 ```
 
@@ -60,30 +69,36 @@ print(result)
 # ...
 ```
 
----
+### Dynamic Parsing (NER Model)
 
-## ⚙️ Methodology
+To use the custom Named Entity Recognition model, you need a trained model directory.
 
-We employed a multi-stage approach to tackle address matching:
+```python
+from src.address_matching.parsing.ner_address_parser import load_pipeline, process_batch
 
-1.  **Normalization**: Pre-processing the input string to handle common typos and format variations.
-2.  **Parsing**:
-    *   **Standard Parser**: Uses rule-based logic and lookup trees (e.g., city/district lists) for high-precision matching of known entities.
-    *   **Custom NER Model**: A Deep Learning model trained on **synthetic data** to generalize and extract entities from unstructured or noisy inputs.
-3.  **Matching**: The extracted components are validated and matched against the official hierarchical address database.
+# Load the trained model
+model_dir = "models/BERTurk_stage1_out"  # Path to your fine-tuned model
+pipe = load_pipeline(model_dir)
+
+# Address to parse
+address_text = "Barbaros Bulvarı No:12 Beşiktaş İstanbul"
+
+# Process
+results = process_batch(pipe, [address_text], max_length=512)
+
+# View extracted entities
+print(results[0]['entities_json'])
+# Output example:
+# [{"type": "district", "text": "Beşiktaş", ...}, {"type": "province", "text": "İstanbul", ...}]
+```
 
 ---
 
 ## 👥 Contributors
 
-This project was brought to you by the **Localhost** team:
+This project was brought to you by the **localhost** team:
 
+*   **Yüksel Ege Boyacı (me)**
 *   **Barış Çakmak**
 *   **Tuğçe Yücel**
 *   **Ömer Ozan Mart**
-
----
-
-## 📄 License
-
-[MIT](LICENSE)
